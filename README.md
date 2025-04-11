@@ -1,2 +1,2 @@
 # HackDartmouth
-Official Github for Dartmouth's HackDartmouth X.
+Official Github repository for Dartmouth's 10th annual hackathon, HackDartmouth X.
