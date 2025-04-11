@@ -36,12 +36,12 @@ _Rules largely based on MLH hackathon rules._
 
 As HackDartmouth is hosted in person at Dartmouth College, we ask you to respect the property and spaces provided.
 
-- [ ] **Clean up after yourself.** Dispose of trash properly, and leave your workspace tidy for others.
-- [ ] **Do not move furniture or equipment.** The layout has been designed to accommodate everyone—please do not rearrange tables, chairs, or tech equipment.
-- [ ] **Be mindful of noise levels.** Collaboration is encouraged, but keep conversations at a reasonable volume, especially during late-night hours.
-- [ ] **Respect shared spaces.** Whether it’s a classroom, common area, or lounge, leave things the way you found them.
-- [ ] **Use provided materials responsibly.** Don’t take more supplies than you need, and return any borrowed equipment.
-- [ ] **No sleeping in unauthorized areas.** Rest is important, but please use designated spaces for naps or breaks.
-- [ ] **Food and drink are only allowed in the atrium.** This is a rule of the Dartmouth College building. Please make sure that you only eat in the atrium. If you bring snacks or water into classrooms, make sure to clean up after yourself.
+- **Clean up after yourself.** Dispose of trash properly, and leave your workspace tidy for others.
+- **Do not move furniture or equipment.** The layout has been designed to accommodate everyone—please do not rearrange tables, chairs, or tech equipment.
+- **Be mindful of noise levels.** Collaboration is encouraged, but keep conversations at a reasonable volume, especially during late-night hours.
+- **Respect shared spaces.** Whether it’s a classroom, common area, or lounge, leave things the way you found them.
+- **Use provided materials responsibly.** Don’t take more supplies than you need, and return any borrowed equipment.
+- **No sleeping in unauthorized areas.** Rest is important, but please use designated spaces for naps or breaks.
+- **Food and drink are only allowed in the atrium.** This is a rule of the Dartmouth College building. Please make sure that you only eat in the atrium. If you bring snacks or water into classrooms, make sure to clean up after yourself.
 
 Thank you for helping us maintain a welcoming and respectful space for all hackers and staff! Happy hacking!
