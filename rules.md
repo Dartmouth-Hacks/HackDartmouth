@@ -30,6 +30,18 @@ You are strongly encouraged to present a demo of what you have built. Pitches or
 
 You are encouraged to present what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack—that happens all the time! Completion is only one part of the judging criteria, so you might still do well. Also, demoing is not just about the competition. It's a chance to share with others what you learned and what you tried to build—that's what hacking's all about! For being courageous enough to demo, you'll receive a special MLH "I Demoed" sticker—it doesn't matter how good the demo is! In the case that you don't have anything to demo, you can give a presentation about what you tried and what you learned. Hearing what other people learned is interesting and inspiring for other attendees.
 
-Rules largely based on MLH hackathon rules.
+_Rules largely based on MLH hackathon rules._
 
-Happy hacking!
+## General Code of Conduct Rules
+
+As HackDartmouth is hosted in person at Dartmouth College, we ask you to respect the property and spaces provided.
+
+- [ ] **Clean up after yourself.** Dispose of trash properly, and leave your workspace tidy for others.
+- [ ] **Do not move furniture or equipment.** The layout has been designed to accommodate everyone—please do not rearrange tables, chairs, or tech equipment.
+- [ ] **Be mindful of noise levels.** Collaboration is encouraged, but keep conversations at a reasonable volume, especially during late-night hours.
+- [ ] **Respect shared spaces.** Whether it’s a classroom, common area, or lounge, leave things the way you found them.
+- [ ] **Use provided materials responsibly.** Don’t take more supplies than you need, and return any borrowed equipment.
+- [ ] **No sleeping in unauthorized areas.** Rest is important, but please use designated spaces for naps or breaks.
+- [ ] **Food and drink are only allowed in the atrium.** This is a rule of the Dartmouth College building. Please make sure that you only eat in the atrium. If you bring snacks or water into classrooms, make sure to clean up after yourself.
+
+Thank you for helping us maintain a welcoming and respectful space for all hackers and staff! Happy hacking!
