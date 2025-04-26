@@ -21,6 +21,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 7. To qualify for the beginner track, at least half the team must have this be their first hackathon.
 8. Projects that violate the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf) are not allowed.
 9. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf), or other unsporting behaviour.
+10. HackDartmouth participants must disclose any use of AI tools in their projects. AI-generated content should support, not replace, original work and human creativity.
 
 ## Demos
 
