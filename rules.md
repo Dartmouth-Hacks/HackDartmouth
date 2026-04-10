@@ -5,7 +5,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 
 ## The rules of the competition
 
-1. Teams should be 2-4 people. Exceptions can be made for 5 person teams, but please note that for most categories we only provide prizes for 4 person teams. If you participate in a 5 person team and win a challenge, there might not be enough prizes for everyone on your team.
+1. Teams should be 2-4 people. Teams of 5 or more are not allowed
 2. Teams should be made up exclusively of undergraduate students (or Dartmouth graduate students) who are not organizers, volunteers, judges, sponsors, or in any other privileged position at the event. 
 3. All team members should be present at the event.
 4. Teams can gain advice and support from organizers, volunteers, sponsors, and others.
